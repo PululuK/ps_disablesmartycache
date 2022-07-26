@@ -1,0 +1,1 @@
+# Disable smarty cache support
